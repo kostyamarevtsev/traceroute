@@ -1,5 +1,3 @@
-# traceroute
-
 example 
 
 ```bash
